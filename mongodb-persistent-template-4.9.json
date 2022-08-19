@@ -20,7 +20,7 @@
     },
     "objects": [
         {
-            "apiVersion": "v1",
+            "apiVersion": "secret.openshift.io/v1",
             "kind": "Secret",
             "metadata": {
                 "annotations": {
